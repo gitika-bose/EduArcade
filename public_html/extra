@@ -1,0 +1,37 @@
+    <!DOCTYPE html>
+<html>
+<head>
+	<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+	<link href="styles.css" rel="stylesheet" type="text/css/" />
+	<link href="style.css" rel="stylesheet" type="text/css/" />
+	<title>EduArcade</title>
+</head>
+<body>
+<div class="container">
+<h1><img src="/logo eduarcade.jpg" /></h1>
+
+<div class="navbar">
+<div class="navbar-inner">
+<div class="container">
+<ul class="nav">
+	<li><a href="home.html">Home</a></li>
+	<li><a href="All.html">All</a></li>
+	<li><a href="Arithmetic.html">Arithmetic</a></li>
+	<li><a href="Geometry.html">Geometry</a></li>
+	<li><a href="Algebra.html">Algebra</a></li>
+	<li><a href="Contact.html">Contact Us</a></li>
+</ul>
+</div>
+ <div class="bs-docs-example">
+            <div class="well">
+      <center><iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/95753409/?autostart=false" frameborder="0" allowfullscreen></iframe>
+</<center>
+            </div>
+          </div>
+    
+</div>
+</div>
+<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script><script src="http://code.jquery.com/jquery-1.10.1.min.js"></script></div>
+</body>
+</html>
+    

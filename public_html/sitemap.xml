@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://eduarcade.org/</loc>
+  <lastmod>2017-08-11T19:53:38+00:00</lastmod>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://eduarcade.org/home.html</loc>
+  <lastmod>2017-08-11T19:53:38+00:00</lastmod>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://eduarcade.org/All.html</loc>
+  <lastmod>2017-08-11T20:24:23+00:00</lastmod>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://eduarcade.org/Arithmetic.html</loc>
+  <lastmod>2017-08-11T20:18:44+00:00</lastmod>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://eduarcade.org/Geometry.html</loc>
+  <lastmod>2017-08-11T20:24:04+00:00</lastmod>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://eduarcade.org/Algebra.html</loc>
+  <lastmod>2017-08-11T20:00:07+00:00</lastmod>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://eduarcade.org/Contact.html</loc>
+  <lastmod>2017-08-11T19:44:43+00:00</lastmod>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://eduarcade.org/games/OddPenguin/index.html</loc>
+  <lastmod>2017-08-11T07:09:44+00:00</lastmod>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://eduarcade.org/games/DieHard.html</loc>
+  <lastmod>2017-08-11T19:49:20+00:00</lastmod>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://eduarcade.org/games/OperationBeetle.html</loc>
+  <lastmod>2017-08-11T19:48:06+00:00</lastmod>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://eduarcade.org/games/Multiples.html</loc>
+  <lastmod>2017-08-11T19:49:00+00:00</lastmod>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://eduarcade.org/games/countdownSolver.html</loc>
+  <lastmod>2017-08-11T19:50:40+00:00</lastmod>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://eduarcade.org/games/Patterns.html</loc>
+  <lastmod>2017-08-11T19:47:33+00:00</lastmod>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://eduarcade.org/games/Rescue.html</loc>
+  <lastmod>2017-08-11T19:47:05+00:00</lastmod>
+  <changefreq>always</changefreq>
+</url>
+</urlset>
